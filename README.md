@@ -16,6 +16,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=yellow">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=blue">
 
-<br>
-![Sihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihunkim-dev&show_icons=true&theme=radical)
 </div>
