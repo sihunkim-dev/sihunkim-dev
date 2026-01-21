@@ -3,9 +3,8 @@
 <div align="center">
 <h2>About Me!</h2><br>
   <ul>
-<li> 🇬🇧 Computer Science Student (Year 2) in the UK.</li>
-<li> 🇰🇷 Proudly from <b>South Korea</b>.</li>
-<li>☕ Passionate about building robust applications with **Java**.</li>
+🇬🇧 Computer Science Student (Year 2) in the UK.
+🇰🇷 Proudly from <b>South Korea</b>.
   </ul>
 
 <h3>Tech Stacks</h3>
