@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 <div align="center">
-<h2>About Me!</h2>h2>
-* 🇬🇧 Computer Science Student (Year 2)** in the UK.
-* 🇰🇷 Proudly from **South Korea**.
-* ☕ Passionate about building robust applications with **Java**.
-
+<h2>About Me!</h2><br>
+  <ul>
+<li> 🇬🇧 Computer Science Student (Year 2) in the UK.</li>
+<li> 🇰🇷 Proudly from <b>South Korea</b>.</li>
+<li>☕ Passionate about building robust applications with **Java**.</li>
+  </ul>
 
 <h3>Tech Stacks</h3>
 ------
