@@ -3,7 +3,7 @@
 <div align="center">
 <h2>About Me!</h2><br>
   <ul>
-🇬🇧 Computer Science Student (Year 2) in the UK.
+🇬🇧 Computer Science Student (Year 2) in the UK. <br>
 🇰🇷 Proudly from <b>South Korea</b>.
   </ul>
 
