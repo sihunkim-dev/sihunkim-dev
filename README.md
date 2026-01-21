@@ -2,9 +2,9 @@
 
 <div align="center">
 <h2>About Me!</h2>h2>
-- 🇬🇧 Computer Science Student (Year 2)** in the UK.
-- 🇰🇷 Proudly from **South Korea**.
-- ☕ Passionate about building robust applications with **Java**.
+* 🇬🇧 Computer Science Student (Year 2)** in the UK.
+* 🇰🇷 Proudly from **South Korea**.
+* ☕ Passionate about building robust applications with **Java**.
 
 
 <h3>Tech Stacks</h3>
